@@ -25,3 +25,6 @@ Contributions are welcome. Please open an issue to discuss your ideas before mak
 ## License
 
 This project is licensed under the terms of the MIT license.
+
+
+*** Perai que eu to atravessando a rua aqui pera ***
